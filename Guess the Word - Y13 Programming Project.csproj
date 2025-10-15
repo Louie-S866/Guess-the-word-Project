@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>Guess_the_Word___Y13_Programming_Project</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="functions-csharp" Version="1.3.1" />
+    <PackageReference Include="gotrue-csharp" Version="4.2.6" />
+    <PackageReference Include="Microsoft.Net.Http" Version="2.2.29" />
+    <PackageReference Include="NuGet.Frameworks" Version="6.8.0" />
+    <PackageReference Include="NuGet.Packaging.Core" Version="6.8.0" />
+    <PackageReference Include="postgrest-csharp" Version="3.5.0" />
+    <PackageReference Include="Pulumi.Supabase" Version="1.1.2" />
+    <PackageReference Include="realtime-csharp" Version="6.0.4" />
+    <PackageReference Include="supabase-core" Version="0.0.3" />
+    <PackageReference Include="supabase-csharp" Version="0.15.0" />
+    <PackageReference Include="supabase-storage-csharp" Version="1.4.0" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.3",
+    "postgres": "^3.4.3",
+    "supabase": "^1.136.0"
+  }
+}

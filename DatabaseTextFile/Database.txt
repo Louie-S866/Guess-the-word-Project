@@ -1,0 +1,13 @@
+PlayerID:  1
+Total Wins:  46
+Total Hints:  1101
+Total Guesses:  2997
+Percentage of games won:  11.76
+Most successful letter word:  5
+Lowest number of guesses:  1
+Total challenges won:  1
+Words guessed in first guess:  35
+Words guessed in second guess:  0
+Words guessed in third guess:  0
+Total Games Played:  392
+Highest Win Streak:  1

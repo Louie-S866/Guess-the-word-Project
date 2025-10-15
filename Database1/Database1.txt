@@ -1,0 +1,4 @@
+PlayerID;TotalWins;TotalHints;
+001;5;2;
+002;6;6;
+003;8;1;
